@@ -12,7 +12,7 @@
 * Medallero por juegos.
 
 
-**Puede encontrarme en LinkedIn como Adriel Salguero https://www.linkedin.com/in/adrielsalguero/
+** Puede encontrarme en LinkedIn como Adriel Salguero https://www.linkedin.com/in/adrielsalguero/
 
 #Olympic games - Data analysis
 
@@ -27,4 +27,4 @@
 * Medals per game.
 
 
-**You can find me on LinkedIn like Adriel Salguero https://www.linkedin.com/in/adrielsalguero/
+** You can find me on LinkedIn like Adriel Salguero https://www.linkedin.com/in/adrielsalguero/
