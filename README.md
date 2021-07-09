@@ -3,10 +3,10 @@
 >A partir de las bases de datos obtenidas de Kagle y algunas modificaciones propias en cuanto a links, elabore este algoritmo para trabajar los datos
 
 
-## Analizaremos>
+--- Analizaremos:
 
-*Ciudadaes organizadoras.
-*Eventos por juegos.
+* Ciudadaes organizadoras.
+* Eventos por juegos.
 * Atletas por juegos.
 * Performance por paises.
 * Medallero por juegos.
@@ -18,13 +18,13 @@
 
 > With Kagle Databases and some own modifications, I developed this algorithm to transform data
 
-##We will analyze>
+--We will analyze>
 
-*Cities host.
-*Events per game.
-*Athletes per game.
-*Countries performance.
-*Medals per game.
+* Cities host.
+* Events per game.
+* Athletes per game.
+* Countries performance.
+* Medals per game.
 
 
 #You can find me on LinkedIn like Adriel Salguero https://www.linkedin.com/in/adrielsalguero/
